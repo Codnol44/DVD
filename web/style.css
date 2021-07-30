@@ -1,0 +1,79 @@
+html {
+    background: dodgerblue;
+    font-family: "Comic Sans MS";
+    font-size: x-large;
+}
+
+body {
+    background-image:url(dvd.png);
+}
+
+.affic {
+    background : dodgerblue;
+    border-radius: 10px;
+}
+
+div.fond {
+    background-color: lavender;
+}
+
+button.btn {
+    font-family: "Comic Sans MS";
+    display: inline-block;
+    background-color: #7b38d8;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    width: 150px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button.btn2 {
+    font-family: "Comic Sans MS";
+    display: inline-block;
+    background-color: #7b38d8;
+    border-radius: 20px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 20px;
+    padding: 40px;
+    width: 500px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+div#res{
+    background-color: cadetblue;
+    color: indigo;
+    font-family: "Ink Free";
+    font-size: x-large;
+}
+
+#foot {
+    background-color: dodgerblue;
+    font-size: small;
+}
+
+header {
+    background-color: dodgerblue;
+}
+
+p#res  {
+    border-radius: 10px;
+    background-color: #7b38d8;
+    text-align: center;
+}
+
